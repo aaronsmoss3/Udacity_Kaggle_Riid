@@ -1,15 +1,15 @@
 Packages to used on model file included:
 
-Lightgbm
-Datatable
-Optuna
-Pickle
-Pandas
-Numpy
-Gc
-sklearn.metrics
-Collections
-Tqdm.notebook
+Lightgbm\
+Datatable\
+Optuna\
+Pickle\
+Pandas\
+Numpy\
+Gc\
+sklearn.metrics\
+Collections\
+Tqdm.notebook\
 
 Also, I used a google cloud AI instance if 16 VPU and 128 MB with 200 MB disk space. I performed the EDA and saved final model in a pickle file on this instance. Next step would be to read in data and reduce datasets to contain the necessary features save in datable\'92s .jay format for download/upload in Kaggle notebook for inference.\
 
