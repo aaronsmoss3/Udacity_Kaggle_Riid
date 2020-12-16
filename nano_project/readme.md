@@ -1,4 +1,4 @@
-Packages to used on model file included:
+Packages to used on model file include:
 
 Lightgbm\
 Datatable\
