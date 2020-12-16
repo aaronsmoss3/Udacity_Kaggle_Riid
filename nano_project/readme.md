@@ -18,4 +18,4 @@ To run the am_lgbm_project_r1 notebook, you will need to download the main train
 
 Lastly, to run lgbm_inference_kaggle.ipynb, you will need the same packages as modeling file (shown above). 
 Also, the data needed for inference will be in the Kaggle folder. 
-You will need to upload these data files into a Kaggle notebook on their website with importing the file into a cloud notebook.
+You will need to upload these data files into a Kaggle notebook on their cloud notebook.
